@@ -1,0 +1,14 @@
+@import "tailwindcss";
+.box-shadow-c{
+    box-shadow: 0 0 10px 10px rgb(156, 95, 95) ;
+}
+.bg-multi-gradient {
+    background-image: radial-gradient(circle, 
+    #ffd6e8, #ffbcaa, #a2d9ce, #d3f8e2, #a0d8ef, #d8b4fe, #ffe5d9, #ffb4a2, #fff3b0, #c4b5fd, #fbcfe8, #fde68a, #86efac, #67e8f9,#c0719e, #fde68a, #86efac, #67e8f9);
+}
+.box-shadow-x{
+    box-shadow: 0 0 6px 6px rgb(72, 71, 71) ;
+}
+.box-shadow-co{
+    box-shadow: 0 0 2px 2px rgb(72, 71, 71) ;
+}
